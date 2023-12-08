@@ -1,5 +1,5 @@
-import DayOne.TxtFileReaderV1_1;
-import DayOne.TxtFileReaderV1_2;
+import DayOne.*;
+import DayTwo.*;
 
 public class Main
 {
@@ -12,5 +12,9 @@ public class Main
         //Project of Day 1.2
         TxtFileReaderV1_2 tfr2 = new TxtFileReaderV1_2();
         System.out.println(tfr2.readTxtFile("seya.weber/src/DayOne/Input/Trajectory_Values.txt"));
+
+        //Project of Day 2.1
+        CubeConundrum1 cc1 = new CubeConundrum1();
+        System.out.println(cc1.sumOfValidGames("seya.weber/src/DayTwo/Input/GameValues.txt"));
     }
 }
