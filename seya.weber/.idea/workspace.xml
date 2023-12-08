@@ -12,7 +12,8 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AdventOfCode23_SWEB.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DayOne/Input/Trajectory_Values.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DayOne/TxtFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayOne/TxtFileReaderV1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayOne/TxtFileReaderV1_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701934337788</updated>
       <workItem from="1701934338854" duration="879000" />
-      <workItem from="1701956565760" duration="1326000" />
+      <workItem from="1701956565760" duration="1757000" />
     </task>
     <servers />
   </component>
