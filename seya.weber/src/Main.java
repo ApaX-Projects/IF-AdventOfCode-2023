@@ -16,5 +16,9 @@ public class Main
         //Project of Day 2.1
         CubeConundrum1 cc1 = new CubeConundrum1();
         System.out.println(cc1.sumOfValidGames("seya.weber/src/DayTwo/Input/GameValues.txt"));
+
+        //Project of Day 2.2
+        CubeConundrum2 cc2 = new CubeConundrum2();
+        System.out.println(cc2.CubeConundrum2("seya.weber/src/DayTwo/Input/GameValues.txt"));
     }
 }
