@@ -1,4 +1,5 @@
 import DayOne.*;
+import DayThree.*;
 import DayTwo.*;
 
 public class Main
@@ -20,5 +21,15 @@ public class Main
         //Project of Day 2.2
         CubeConundrum2 cc2 = new CubeConundrum2();
         System.out.println(cc2.CubeConundrum2("seya.weber/src/DayTwo/Input/GameValues.txt"));
+
+        //Project of Day 3.1
+        GearRatio1 gr1 = new GearRatio1();
+        System.out.println(gr1.GearRatio1("seya.weber/src/DayThree/Input/EngineSchematic.txt"));
+
+        //Project of Day 3.2
+        GearRatio2 gr2 = new GearRatio2();
+        System.out.println(gr2.GearRatio2("seya.weber/src/DayThree/Input/EngineSchematic.txt"));
+
+
     }
 }
